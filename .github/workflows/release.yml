@@ -27,8 +27,8 @@ jobs:
           server-id: github
       - name: Configure Git user
         run: |
-          git config user.email "actions@github.com"
-          git config user.name "GitHub Actions"
+          git config user.email "pareeksumit101@gmail.com"
+          git config user.name "sumitpareek1"
       - name: Publish JAR
         run: ./mvnw -B release:prepare release:perform
         env:
