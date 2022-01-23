@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>ch.frankel.blog.renamer</groupId>
     <artifactId>renamer-swing</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>14</maven.compiler.release>
@@ -89,7 +89,7 @@
     </dependencies>
     <scm>
         <developerConnection>scm:git:https://github.com/sumitpareek1/this.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>v1.1</tag>
   </scm>
     <distributionManagement>
         <repository>
