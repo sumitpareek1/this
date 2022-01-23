@@ -96,7 +96,7 @@
         <repository>
             <id>github</id>
             <name>GitHub</name>
-            <url>https://maven.pkg.github.com/git:https://github.com/sumitpareek1/this</url>
+            <url>https://maven.pkg.github.com/sumitpareek1/this</url>
         </repository>
     </distributionManagement>
 </project>
