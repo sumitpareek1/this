@@ -9,6 +9,7 @@ fun main() {
     }
     eventBus.register(
         DirectoryTextField,
+
         FolderPickerButton,
         FileModel,
         PathModel,
